@@ -1,8 +1,8 @@
 # Image Colorization using GANs
 
 Authors:
-Tarun Saxena (002979327)
 Anson Antony (002756978)
+Tarun Saxena (002979327)
 Amal Mathew (002755808)
 
 OS Used: Google Colab
